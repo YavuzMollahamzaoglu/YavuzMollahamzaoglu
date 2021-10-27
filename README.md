@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YavuzMollahamzaoglu
-- 👀 I’m interested in computer games and programming
+- 👀 I’m interested in basketball, physics and programming
 - 🌱 I’m currently learning programming basics, JavaScript and Python 
 - 📫 How to reach me: yavuzmollahamzaoglu@outlook.com
 
